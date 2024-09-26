@@ -13,8 +13,8 @@ Curso - Vercionamento de Git e Github
 
 | Aulas | Resumos |
 | ------- | ------- |
-| Gravando Alterações no Repositório Local | [Resumo]
-() |
+| Aula 01 | [Resumo]() |
+| Aula 02 | [Resumo]() |
 
 ```
 git init
